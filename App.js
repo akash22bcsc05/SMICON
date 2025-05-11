@@ -21,7 +21,7 @@ const App = () => {
         <Stack.Screen name="MainScreen" component={MainScreen} options={{ headerShown: false }}/>
         <Stack.Screen name="ChatScreen" component={ChatScreen} />
       </Stack.Navigator>
-    </NavigationContainer>
+    </NavigationContainer > 
   );
 };
 
